@@ -1,0 +1,1 @@
+Refer to adjoe documentation for integration steps: https://docs.adjoe.io/rewarded-solutions
