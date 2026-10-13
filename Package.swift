@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PlaytimeMonetize",
-            url: "https://releases.adjoe.io/files/playtime/ios/monetize/5.0.0-beta.2/PlaytimeSDK.zip",
-            checksum: "9ab58b45d768053b25d70da624a80a96c83cfc86a525b80b53008966d2158d4a"
+            url: "https://releases.adjoe.io/files/playtime/ios/monetize/5.0.0-beta.3/PlaytimeSDK.zip",
+            checksum: "825227c51af5e1d337cf06caef99d4fe7df87753ccf96e4275b37af928c3b082"
         )
     ]
 )
